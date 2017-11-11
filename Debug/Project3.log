@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\ula\documents\visual studio 2015\projects\project3\project3\source.cpp(64): warning C4018: '<': signed/unsigned mismatch
+c:\users\ula\documents\visual studio 2015\projects\project3\project3\source.cpp(41): warning C4101: 'q': unreferenced local variable
+Source.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+  Project3.vcxproj -> C:\Users\Ula\documents\visual studio 2015\Projects\Project3\Debug\Project3.exe
+  Project3.vcxproj -> C:\Users\Ula\documents\visual studio 2015\Projects\Project3\Debug\Project3.pdb (Partial PDB)
